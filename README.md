@@ -1,4 +1,5 @@
 ChatBot using NLP for Beginners 🤖
+
 📌 Overview
 This project is a beginner-friendly chatbot that uses Natural Language Processing (NLP) and Machine Learning to understand user queries and respond intelligently.
 It uses NLTK for text preprocessing and TensorFlow for training a neural network on custom intents.
